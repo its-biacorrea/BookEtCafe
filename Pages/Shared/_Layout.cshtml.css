@@ -1,0 +1,14 @@
+﻿a{
+    color: white;
+}
+.imagem-quem-somos {
+    display: block;
+    margin: auto;
+    width: 200px;
+}
+
+.container {
+    display: flex;
+}
+
+
